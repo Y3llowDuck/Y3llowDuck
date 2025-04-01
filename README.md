@@ -1,5 +1,5 @@
 ## My blog 👋 
-https://sql-lover.medium.com/
+https://duckwrites.medium.com
 
 
 <!--
