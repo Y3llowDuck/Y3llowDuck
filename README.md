@@ -1,4 +1,4 @@
-## My blog 👋 
+## Personal Site and Blogs 👋 
 https://y3llowduck.github.io/
 
 <!--
