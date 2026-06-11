@@ -1,4 +1,4 @@
-## Personal Site and Blogs 👋 
+## Personal Site👋 
 https://y3llowduck.github.io/
 
 <!--
